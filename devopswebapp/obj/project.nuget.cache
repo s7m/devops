@@ -1,17 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jwIKqv6RArczsl090ExLc9DyzIU7sd4wK7AKnBJTCPqYNM7P4kXkSOAPdLCFG1UGrEeuXZ09cxBbYd6eiIAjxA==",
+  "dgSpecHash": "+hE2OA4txwJGiFPegWtz4sx34fyoVetVZhBg41XsJgPHEprIAXqHQTBHI6yN7osgcV0Js5IQQe8izkqvLsWRow==",
   "success": true,
   "projectFilePath": "C:\\Source\\Devops\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shahe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\shahe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Source\\Devops\\devops-webapp-solution\\devopswebapp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
